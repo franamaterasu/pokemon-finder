@@ -1,0 +1,17 @@
+.finder {
+  height: calc(100vh - 100px);
+}
+
+.finder__input {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+}
+
+.finder__button {
+  color: #f0f0f0;
+  padding: 10px 15px;
+}
+
+.finder__icon:first-of-type {
+  font-size: 35px;
+}

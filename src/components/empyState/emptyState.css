@@ -1,0 +1,24 @@
+.empty-state {
+  width: 100%;
+  height: calc(100vh - 100px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.empty-state__icon {
+  color: #ef5350;
+  font-size: 90px;
+}
+
+.empty-state__text {
+  font-family: "Lato", sans-serif;
+  font-size: 21px;
+  font-weight: 100;
+}
+
+.empty-state__button {
+  font-family: "Agdasima", sans-serif;
+  font-size: 20px;
+}

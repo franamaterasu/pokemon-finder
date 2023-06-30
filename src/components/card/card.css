@@ -1,0 +1,16 @@
+.card__title {
+  font-family: "Agdasima", sans-serif;
+  font-size: 35px;
+}
+
+.card__text {
+  font-family: "Lato", sans-serif;
+  font-size: 19px;
+  font-weight: 100;
+  line-height: 25px;
+}
+
+.card__text,
+.card__text:last-child {
+  margin-bottom: 15px;
+}
